@@ -1,14 +1,17 @@
 **Объект данных и раздел**<p>
+
 Через мастер разделов создан раздел «Документ фармкомпании» на базе объекта UsrPharmaDocument. 
 
 <img width="562.5" height="624" alt="image" src="https://github.com/user-attachments/assets/a3e9dda3-3fcc-4f0c-bbe9-bd8eaf4f02a4" />
 
 На вкладку карточки выведена деталь «Визы», в которую заносятся результаты визирования.
 
-<img width="529.5" height="348" alt="image" src="https://github.com/user-attachments/assets/77c12a4c-c4d3-4b1f-bc94-bab712168a51" />
+<img width="529" height="348" alt="image" src="https://github.com/user-attachments/assets/f0407b5c-4aef-42ac-b6c5-e82734ffa231" />
+
 
 На рисунке представлены два тестовых документа: Д-010 в статусе «Зарегистрирован» и Д-001 в статусе «Отклонён».
 Данные записи являются результатами тестовых прогонов
+
 **Справочники**<p>
 
 Справочник «Тип документа» содержит три значения.
@@ -16,14 +19,16 @@
 
 <img width="427.5" height="412.5" alt="image" src="https://github.com/user-attachments/assets/d5c20a94-63c3-4bd0-8f12-5fc72a4c338c" />
 
-<img width="485.5" height="121.5" alt="image" src="https://github.com/user-attachments/assets/48b253cc-9432-4d8d-bbff-1be29fed03ff" />
+<img width="807.5" height="202.5" alt="image" src="https://github.com/user-attachments/assets/48b253cc-9432-4d8d-bbff-1be29fed03ff" />
 
 **Организационные роли**<p>
+
 Роли названы в соответствии с дорожками BPMN-модели. Данное совпадение обеспечивает смысловую связь между моделью и реализацией, позволяя идентифицировать соответствие схемы и настроек процесса.
 
 <img width="495" height="256.5" alt="image" src="https://github.com/user-attachments/assets/bbea1578-a930-4be2-87aa-542a33d40d76" />
 
 **Схема процесса**<p>
+
 Схема процесса разработана в дизайнере процессов BPMSoft. Она включает чтение данных, двенадцать содержательных шагов, элементы смены статуса и завершающее событие.
 
 <img width="697.5" height="130.5" alt="image" src="https://github.com/user-attachments/assets/86ecea91-7434-4e14-8cae-b5bd7356b8fc" />
