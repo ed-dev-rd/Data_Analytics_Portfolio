@@ -1,2 +1,3 @@
-# Data_Analytics_Portfolio
-Portfolio of data analytics projects (Python, SQL, Excel) — student project, Plekhanov Russian University of Economics.
+# Я - Шишин Захар, аналитик данных
+Студент РЭУ им. Г. В. Плеханова. Обучаюсь на направлении прикладная информатика в экономике, закончил первый курс.
+
