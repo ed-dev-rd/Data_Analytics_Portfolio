@@ -12,7 +12,4 @@
 **Аналитическая визуализация показателей на платформе [Visiology](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Visiology.md)** <p>
 На платформе Visiology подготовлен денормализованный набор данных из ста записей, отражающих обработку документов за год. На его основе построена аналитическая панель, содержащая ключевые показатели: долю отклонений, средний цикл обработки, стоимость обработки и распределение трудозатрат по стадиям процесса.<p>
 
-[Учебный план](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/commit/355c1c919ef5b2864e85365c5c7d667dffa1c3cd)
-
-
-https://github.com/ed-dev-rd/Data_Analytics_Portfolio/commit/355c1c919ef5b2864e85365c5c7d667dffa1c3cd
+[Учебный план ](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Учебный%20план.md)
