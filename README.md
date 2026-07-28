@@ -18,4 +18,4 @@
 [Научная конференция статья](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Статья%20Шишин%20Захар.docx)<p>
 [Статья ООП](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/РЕАЛИЗАЦИЯ%20ОБЪЕКТНО-ОРИЕНТИРОВАННОЙ%20ПАРАДИГМЫ%20ДЛЯ%20%20%20МОДЕЛИРОВАНИЯ%20ДЕЯТЕЛЬНОСТИ%20АВТОПАРКА%20%20%20.docx)<p>
 [Курсовая работа ](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/КР%20Шишин%20Захар%20тема13%20итог.docx)<p>
-[Неделя будущего преподавателя ](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Шишин%202.pdf)<p>
+[Неделя будущего преподавателя диплом](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Шишин%202.pdf)<p>
