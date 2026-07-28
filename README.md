@@ -12,10 +12,10 @@
 **Аналитическая визуализация показателей на платформе [Visiology](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Visiology.md)** <p>
 На платформе Visiology подготовлен денормализованный набор данных из ста записей, отражающих обработку документов за год. На его основе построена аналитическая панель, содержащая ключевые показатели: долю отклонений, средний цикл обработки, стоимость обработки и распределение трудозатрат по стадиям процесса.<p>
 
-[Учебный план ](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Учебный%20план.md)
-[Astra Linux](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Астра_Паспорт_Шишин_Захар_Юрьевич_Физическое_лицо_05_06_2026.pdf)
-[Научная конференция диплом](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Диплом%201%20степени_Шишин%20З.Ю..pdf)
-[Научная конференция статья](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Статья%20Шишин%20Захар.docx)
-[Статья ООП](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/РЕАЛИЗАЦИЯ%20ОБЪЕКТНО-ОРИЕНТИРОВАННОЙ%20ПАРАДИГМЫ%20ДЛЯ%20%20%20МОДЕЛИРОВАНИЯ%20ДЕЯТЕЛЬНОСТИ%20АВТОПАРКА%20%20%20.docx)
-[Курсовая работа ](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/КР%20Шишин%20Захар%20тема13%20итог.docx)
-[Неделя будущего преподавателя ](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Шишин%202.pdf)
+[Учебный план ](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Учебный%20план.md)<p>
+[Astra Linux](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Астра_Паспорт_Шишин_Захар_Юрьевич_Физическое_лицо_05_06_2026.pdf)<p>
+[Научная конференция диплом](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Диплом%201%20степени_Шишин%20З.Ю..pdf)<p>
+[Научная конференция статья](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Статья%20Шишин%20Захар.docx)<p>
+[Статья ООП](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/РЕАЛИЗАЦИЯ%20ОБЪЕКТНО-ОРИЕНТИРОВАННОЙ%20ПАРАДИГМЫ%20ДЛЯ%20%20%20МОДЕЛИРОВАНИЯ%20ДЕЯТЕЛЬНОСТИ%20АВТОПАРКА%20%20%20.docx)<p>
+[Курсовая работа ](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/КР%20Шишин%20Захар%20тема13%20итог.docx)<p>
+[Неделя будущего преподавателя ](https://github.com/ed-dev-rd/Data_Analytics_Portfolio/blob/main/Шишин%202.pdf)<p>
